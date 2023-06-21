@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/datateam-sigma-plugins-km-text/static/css/main.9fda5399.css",
-    "main.js": "/datateam-sigma-plugins-km-text/static/js/main.30636941.js",
-    "static/js/787.89ad94bc.chunk.js": "/datateam-sigma-plugins-km-text/static/js/787.89ad94bc.chunk.js",
-    "index.html": "/datateam-sigma-plugins-km-text/index.html",
-    "main.9fda5399.css.map": "/datateam-sigma-plugins-km-text/static/css/main.9fda5399.css.map",
-    "main.30636941.js.map": "/datateam-sigma-plugins-km-text/static/js/main.30636941.js.map",
-    "787.89ad94bc.chunk.js.map": "/datateam-sigma-plugins-km-text/static/js/787.89ad94bc.chunk.js.map"
+    "main.css": "/static/css/main.9fda5399.css",
+    "main.js": "/static/js/main.61ce69bb.js",
+    "static/js/787.89ad94bc.chunk.js": "/static/js/787.89ad94bc.chunk.js",
+    "index.html": "/index.html",
+    "main.9fda5399.css.map": "/static/css/main.9fda5399.css.map",
+    "main.61ce69bb.js.map": "/static/js/main.61ce69bb.js.map",
+    "787.89ad94bc.chunk.js.map": "/static/js/787.89ad94bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fda5399.css",
-    "static/js/main.30636941.js"
+    "static/js/main.61ce69bb.js"
   ]
 }
