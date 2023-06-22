@@ -86,7 +86,7 @@ function RenderDataTable({ data, titleName, bodyName, attributeNames, titleFontS
         <tr>
           <td colSpan="2">
             <b>
-              <div style={{ whiteSpace: "nowrap", fontSize: "24px", fontWeight: "700", color: titleFontColor, marginBottom: "6px" }} dangerouslySetInnerHTML={{ __html: data[0][titleName] }}></div>
+              <div style={{ whiteSpace: "nowrap", fontSize: titleFontSize, fontWeight: "700", color: titleFontColor, marginBottom: "6px" }} dangerouslySetInnerHTML={{ __html: data[0][titleName] }}></div>
             </b>
           </td>
         </tr>
